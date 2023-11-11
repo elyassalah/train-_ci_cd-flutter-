@@ -30,7 +30,7 @@ class _HomeScreenState extends State<HomeScreen> with Crud {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: const Text("Home weclome test 4 ci "),
+        title: const Text("Home weclome test pull from dev to main withou action in dev "),
         actions: [
           IconButton(
               onPressed: () {
